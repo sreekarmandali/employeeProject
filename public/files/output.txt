@@ -1,0 +1,1 @@
+{"name":"baran","department":"software","salary":500000,"date":"2022-03-15T20:30:38.222Z","_id":"6230f77fcafe5f8d4f471000","__v":0}
